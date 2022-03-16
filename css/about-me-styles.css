@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(148, 148, 145);
+}
+.Highlight {
+  text-align: center;
+
+}
+h1 {
+  font-family: Helvetica, sans-serif;
+
+}
+.Specific {
+  color: rgb(136, 136, 64) ;
+  font-style: italic ;
+  text-decoration: underline ;
+
+  
+
+}
