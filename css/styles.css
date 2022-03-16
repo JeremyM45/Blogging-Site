@@ -1,0 +1,16 @@
+.Header {
+  font-weight: bolder;
+  color: blue;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.Lorem {
+  font-style: italic;
+  color: #4E01AA;
+  font-weight: lighter;
+}
+
+.important {
+  font-weight: bold;
+  color: red;
+}
